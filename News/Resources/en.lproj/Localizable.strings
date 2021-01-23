@@ -1,0 +1,54 @@
+/* 
+  Localizable.strings
+  News
+
+  Created by Kirill Orloff on 23.01.2021.
+  
+*/
+
+"businessTitle" = "Business";
+"entertainmentTitle" = "Entertainment";
+"generalTitle" = "General";
+"healthTitle" = "Health";
+"scienceTitle" = "Science";
+"sportsTitle" = "Sports";
+"technologyTitle" = "Technology";
+
+"businessAbbreviation" = "Bus";
+"entertainmentAbbreviation" = "Entmt";
+"generalAbbreviation" = "Gen";
+"healthAbbreviation" = "Health";
+"scienceAbbreviation" = "Sci";
+"sportsAbbreviation" = "Sport";
+"technologyAbbreviation" = "Tech";
+
+"canadaTitle" = "Canada";
+"franceTitle" = "France";
+"germanyTitle" = "Germany";
+"russiaTitle" = "Russia";
+"unitedKingdomTitle" = "United Kingdom";
+"unitedStatesTitle" = "United States";
+
+"canadaAbbreviation" = "CA";
+"franceAbbreviation" = "FR";
+"germanyAbbreviation" = "DE";
+"russiaAbbreviation" = "RU";
+"unitedKingdomAbbreviation" = "UK";
+"unitedStatesAbbreviation" = "US";
+
+"newsTitle" = "News";
+"countriesTitle" = "Countries";
+"categoriesTitle" = "Categories";
+
+"publishedDateUnknown" = "Unknown date";
+"sourceName" = "Source:";
+"emptyData" = "No news";
+
+"chooseCountryHint" = "Choose\ncountry";
+"chooseCategoryHint" = "Choose\ncategory";
+"readNewsHint" = "Read news";
+
+"alertDismissActionTitle" = "OK";
+"alertCantOpenLinkError" = "Can't open link";
+"alertErrorTitle" = "Error";
+"alertDefaultError" = "Something went wrong. Please, try again later";
